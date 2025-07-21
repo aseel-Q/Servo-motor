@@ -1,6 +1,7 @@
 # Servo-motor
 Driving four servo motors using Arduino
 https://www.tinkercad.com/things/1kK4RPYarST-servo-sweep?sharecode=undefined
+
 Project Objective:
 
 This project aims to experiment with controlling multiple servo motors simultaneously using an Arduino board. Through this project, I learned how to program four motors to move simultaneously, how to move them in a specific direction, and then how to fix them at a specific angle. The main goal is to build a simple practical understanding that will help me design robots that move in a human-like manner in the future.
